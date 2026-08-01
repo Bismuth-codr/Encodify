@@ -1,4 +1,4 @@
-# ECode
+# Encodify
 
 A fast, chainable encoding and cipher utility for Linux.
 
@@ -17,4 +17,4 @@ A fast, chainable encoding and cipher utility for Linux.
 
 More ciphers coming soon. 
 
-installation script included in the download
+installation script included
